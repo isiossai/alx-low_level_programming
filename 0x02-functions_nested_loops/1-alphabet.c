@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * Description: function that prints the alphabet, in lowercase, followed by a new line.
+ * Description: function that prints the alphabet, in lowercase.
  * Return: Always 0 (Success)
  */
 
